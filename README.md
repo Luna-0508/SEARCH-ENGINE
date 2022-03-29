@@ -1,4 +1,4 @@
-#SearchEngine sipmle APP
+# SearchEngine sipmle APP
 
 A simple app which main task is to find drink we wrote in search bar from the list below it.
 App was created to practice basics of:
